@@ -1,4 +1,5 @@
 # DeVerse
+> https://deverse.netlify.app/
 This the website for De'Verse 2022
 
 AIT OSS Club presents De’Verse, this year's first event.
